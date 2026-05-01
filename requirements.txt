@@ -1,0 +1,7 @@
+selenium
+pymongo
+python-dotenv
+beautifulsoup4
+requests
+webdriver-manager
+lxml
